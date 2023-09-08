@@ -1,4 +1,4 @@
-name: YOLY
+name: PSDNet
 channels:
   - https://mirrors.ustc.edu.cn/anaconda/pkgs/main
   - https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
