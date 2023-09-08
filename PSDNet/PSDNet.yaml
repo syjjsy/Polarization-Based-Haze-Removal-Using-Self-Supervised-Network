@@ -86,4 +86,4 @@ dependencies:
     - opencv-contrib-python==3.4.2.16
     - opencv-python==3.4.2.16
     - scikit-video==1.1.11
-prefix: /home/lester/anaconda3/envs/YOLY
+
